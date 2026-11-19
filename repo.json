@@ -9,16 +9,16 @@
       "subtitle": "Enviá archivos al PC, cifrados",
       "localizedDescription": "Transferencias cifradas de extremo a extremo entre iPhone y Windows.",
       "iconURL": "https://raw.githubusercontent.com/Agussnt1/qd-releases/main/icon.png",
-      "version": "2.0.156",
-      "versionDate": "2026-11-19T20:07:49Z",
+      "version": "2.0.157",
+      "versionDate": "2026-11-19T20:23:07Z",
       "downloadURL": "https://github.com/Agussnt1/qd-releases/releases/download/ios-latest/QuickDrop-Unsigned.ipa",
-      "size": 3272922,
+      "size": 3277433,
       "versions": [
         {
-          "version": "2.0.156",
-          "date": "2026-11-19T20:07:49Z",
+          "version": "2.0.157",
+          "date": "2026-11-19T20:23:07Z",
           "downloadURL": "https://github.com/Agussnt1/qd-releases/releases/download/ios-latest/QuickDrop-Unsigned.ipa",
-          "size": 3272922,
+          "size": 3277433,
           "localizedDescription": "Transferencias cifradas de extremo a extremo entre iPhone y Windows.",
           "minOSVersion": "17.0"
         }
